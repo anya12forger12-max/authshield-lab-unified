@@ -1,0 +1,3 @@
+import type React from 'react';
+export declare function Header(): React.JSX.Element;
+//# sourceMappingURL=Header.d.ts.map
